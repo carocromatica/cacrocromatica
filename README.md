@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,19,20,24&section=header" width="100%"/>
+
 <div align="center">
 
 # ✦ Hola, soy Caro ✦
@@ -10,7 +12,6 @@ Diseño · Tecnología · Investigación · Experimentación · IA
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,19,20,24&section=header" width="100%"/>
 
 </div>
 
